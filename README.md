@@ -13,7 +13,7 @@ Monogame, C# and Front-End Tecnologies like HTML, CSS and javascript derivatives
 ->I pursue for freelancer jobs in the tecnologies that I work with, remote jobs 
 
 - 📫 How to reach me ...
--> You can reach me by my emai: josefernandesrezendeneto@gmail.com, from there we can talk about easier and faster ways of comunications. 
+-> You can reach me by my emai: j.fr.neto@hotmail.com, from there we can talk about easier and faster ways of comunications. 
 
 <!---
 netojf/netojf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
