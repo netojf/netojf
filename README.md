@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in ...
 ->Languages: Python,javascript, C#
-->Tecnologies: Monogame, ASP.NET, ASP.NET CORE, DJANGO, HTML, CSS 
+->Tecnologies: Monogame, ASP.NET, ASP.NET CORE, DJANGO, HTML, CSS , DAPPER, ENTITY FRAMEWORK
 ->Development Areas: Games for desktop, Aplications for Web and Desktop
 
 - 🌱 I’m currently learning ...
